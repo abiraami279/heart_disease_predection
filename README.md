@@ -1,7 +1,7 @@
                                       Heart Disease Prediction
   
 Introduction:   
-   This project aims to develop a predictive model for heart disease using machine learning techniques. Heart disease is a significant health concern globally, and early detection plays a crucial role in improving patient outcomes. By leveraging machine learning algorithms, we can analyze patient data and predict the likelihood of heart disease, enabling proactive medical interventions.
+   This project aims to develop a predictive model for heart disease using machine learning techniques. Heart disease is a significant health concern globally, and early detection plays a crucial role in improving patient outcomes. By leveraging machine learning algorithms, we can analyze patient data and predict the likelihood of heart disease, enabling proactive medical interventions.The project is build based on python and machine learning.
 
 Dataset:
    The dataset used for training and testing the predictive model is sourced from 
